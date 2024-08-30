@@ -26,7 +26,7 @@ After addressing the overfitting issue with the second dataset, the model perfor
 ### Prerequisites
 - Python 3.x
 - TensorFlow / PyTorch
-- [Any other libraries or tools you used]
+- numpy
 
 ### Installation
 Clone this repository and install the required dependencies:
