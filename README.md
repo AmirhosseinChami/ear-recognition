@@ -6,10 +6,10 @@ This project is focused on ear recognition using machine learning techniques. Th
 ## Datasets
 
 ### 1. Dataset 1
-The first dataset used in this project is [Dataset 1](#https://www.kaggle.com/datasets/omarhatif/datasets-for-ear-detection-and-recognition?select=ear+recognition+datasets). This dataset provided a robust foundation for initial model training and testing.
+The first dataset used in this project is [Dataset 1](https://www.kaggle.com/datasets/omarhatif/datasets-for-ear-detection-and-recognition?select=ear+recognition+datasets). This dataset provided a robust foundation for initial model training and testing.
 
 ### 2. Dataset 2
-The second dataset is [Dataset 2](#https://www.kaggle.com/datasets/coopermini/uerc2023?select=split). While this dataset offered additional data for improving the model, it initially caused overfitting, which led to poor generalization performance on new data. This issue was mitigated through various techniques, including:
+The second dataset is [Dataset 2](https://www.kaggle.com/datasets/coopermini/uerc2023?select=split). While this dataset offered additional data for improving the model, it initially caused overfitting, which led to poor generalization performance on new data. This issue was mitigated through various techniques, including:
 
 - Data augmentation
 - Dropout layers
