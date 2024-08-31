@@ -18,8 +18,8 @@ The second dataset is [Dataset 2](https://www.kaggle.com/datasets/coopermini/uer
 
 ## Model Performance
 After addressing the overfitting issue with the second dataset, the model performance improved significantly. Below is a summary of the key metrics after applying the corrective measures:
+![optimizers results](https://github.com/user-attachments/assets/1d97761c-0341-45dd-b5ec-4adcf5b9cbaa)
 
-- **Accuracy:** 94.42%
 
 ## How to Use
 
